@@ -1,0 +1,9 @@
+{
+  "name": "104_ws2browser",
+  "description": "WebSocket from node to browser",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ws": "0.4.31"
+  }
+}
